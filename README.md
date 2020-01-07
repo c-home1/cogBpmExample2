@@ -1,5 +1,5 @@
-cognition business process management system model 
-==================
+#Cognition model Business Process Management System  
+#==================
 
 This is a generic class attendance logging application using Python [Flask](http://flask.pocoo.org) and [MongoDB](http://www.mongodb.org/) built for [OpenShift](http://openshift.redhat.com).  It also implements [Flask Oauth](https://pythonhosted.org/Flask-OAuth/) for simple validation through google as well as Pure CSS and JQuery UI to enhance user interface elements.
 
